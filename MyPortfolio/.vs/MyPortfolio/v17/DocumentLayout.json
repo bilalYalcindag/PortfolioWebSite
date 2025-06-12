@@ -1,0 +1,1045 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\acer\\documents\\github\\portfoliowebsite\\myportfolio\\myportfolio\\views\\experience\\createexperience.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\views\\experience\\createexperience.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\acer\\documents\\github\\portfoliowebsite\\myportfolio\\myportfolio\\views\\layout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\views\\layout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\acer\\documents\\github\\portfoliowebsite\\myportfolio\\myportfolio\\views\\experience\\experiencelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\views\\experience\\experiencelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\acer\\documents\\github\\portfoliowebsite\\myportfolio\\myportfolio\\views\\shared\\components\\_featurecomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\views\\shared\\components\\_featurecomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\acer\\documents\\github\\portfoliowebsite\\myportfolio\\myportfolio\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\acer\\documents\\github\\portfoliowebsite\\myportfolio\\myportfolio\\views\\shared\\components\\_navbarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\views\\shared\\components\\_navbarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\acer\\documents\\github\\portfoliowebsite\\myportfolio\\myportfolio\\views\\shared\\components\\_headcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\views\\shared\\components\\_headcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\acer\\documents\\github\\portfoliowebsite\\myportfolio\\myportfolio\\views\\shared\\components\\_layoutnavbarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\views\\shared\\components\\_layoutnavbarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\acer\\documents\\github\\portfoliowebsite\\myportfolio\\myportfolio\\wwwroot\\hola-master\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\wwwroot\\hola-master\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\acer\\documents\\github\\portfoliowebsite\\myportfolio\\myportfolio\\viewcomponents\\_headcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\viewcomponents\\_headcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\acer\\documents\\github\\portfoliowebsite\\myportfolio\\myportfolio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\acer\\documents\\github\\portfoliowebsite\\myportfolio\\myportfolio\\controllers\\default.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\controllers\\default.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\acer\\documents\\github\\portfoliowebsite\\myportfolio\\myportfolio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\acer\\documents\\github\\portfoliowebsite\\myportfolio\\myportfolio\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\acer\\documents\\github\\portfoliowebsite\\myportfolio\\myportfolio\\views\\todolist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\views\\todolist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\acer\\documents\\github\\portfoliowebsite\\myportfolio\\myportfolio\\viewcomponents\\layoutviewcomponents\\_layoutnavbarcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\viewcomponents\\layoutviewcomponents\\_layoutnavbarcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\acer\\documents\\github\\portfoliowebsite\\myportfolio\\myportfolio\\viewcomponents\\_navbarcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\viewcomponents\\_navbarcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\acer\\documents\\github\\portfoliowebsite\\myportfolio\\myportfolio\\controllers\\todolistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\controllers\\todolistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\acer\\documents\\github\\portfoliowebsite\\myportfolio\\myportfolio\\views\\todolist\\updatetodolist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\views\\todolist\\updatetodolist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\acer\\documents\\github\\portfoliowebsite\\myportfolio\\myportfolio\\views\\todolist\\createtodolist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\views\\todolist\\createtodolist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\acer\\documents\\github\\portfoliowebsite\\myportfolio\\myportfolio\\views\\shared\\components\\_layoutsidebarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\views\\shared\\components\\_layoutsidebarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\acer\\documents\\github\\portfoliowebsite\\myportfolio\\myportfolio\\views\\message\\inbox.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\views\\message\\inbox.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\acer\\documents\\github\\portfoliowebsite\\myportfolio\\myportfolio\\dal\\context\\myportfoliocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\dal\\context\\myportfoliocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\acer\\documents\\github\\portfoliowebsite\\myportfolio\\myportfolio\\dal\\entities\\todolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\dal\\entities\\todolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\acer\\documents\\github\\portfoliowebsite\\myportfolio\\myportfolio\\viewcomponents\\layoutviewcomponents\\_layoutsidebarcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\viewcomponents\\layoutviewcomponents\\_layoutsidebarcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\acer\\documents\\github\\portfoliowebsite\\myportfolio\\myportfolio\\views\\message\\messagedetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\views\\message\\messagedetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\acer\\documents\\github\\portfoliowebsite\\myportfolio\\myportfolio\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\acer\\documents\\github\\portfoliowebsite\\myportfolio\\myportfolio\\controllers\\statisticcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\controllers\\statisticcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\acer\\documents\\github\\portfoliowebsite\\myportfolio\\myportfolio\\views\\statistic\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\views\\statistic\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\acer\\documents\\github\\portfoliowebsite\\myportfolio\\myportfolio\\views\\shared\\components\\_experiencecomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\views\\shared\\components\\_experiencecomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\acer\\documents\\github\\portfoliowebsite\\myportfolio\\myportfolio\\controllers\\experiencecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\controllers\\experiencecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\acer\\documents\\github\\portfoliowebsite\\myportfolio\\myportfolio\\views\\experience\\updateexperience.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\views\\experience\\updateexperience.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\acer\\documents\\github\\portfoliowebsite\\myportfolio\\myportfolio\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\acer\\documents\\github\\portfoliowebsite\\myportfolio\\myportfolio\\viewcomponents\\_experiencecomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\viewcomponents\\_experiencecomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\acer\\documents\\github\\portfoliowebsite\\myportfolio\\myportfolio\\views\\shared\\components\\_layoutscriptcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\views\\shared\\components\\_layoutscriptcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\acer\\documents\\github\\portfoliowebsite\\myportfolio\\myportfolio\\viewcomponents\\layoutviewcomponents\\_layoutscriptcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\viewcomponents\\layoutviewcomponents\\_layoutscriptcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\acer\\documents\\github\\portfoliowebsite\\myportfolio\\myportfolio\\viewcomponents\\_featurecomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\viewcomponents\\_featurecomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\acer\\documents\\github\\portfoliowebsite\\myportfolio\\myportfolio\\views\\shared\\components\\_layoutheadcomponentspartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\views\\shared\\components\\_layoutheadcomponentspartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\acer\\documents\\github\\portfoliowebsite\\myportfolio\\myportfolio\\viewcomponents\\layoutviewcomponents\\_layoutheadcomponentspartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\viewcomponents\\layoutviewcomponents\\_layoutheadcomponentspartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\acer\\documents\\github\\portfoliowebsite\\myportfolio\\myportfolio\\wwwroot\\ready-bootstrap-dashboard-master\\typography.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\wwwroot\\ready-bootstrap-dashboard-master\\typography.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\acer\\documents\\github\\portfoliowebsite\\myportfolio\\myportfolio\\controllers\\layoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\controllers\\layoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\acer\\documents\\github\\portfoliowebsite\\myportfolio\\myportfolio\\views\\shared\\components\\_skillcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\views\\shared\\components\\_skillcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\acer\\documents\\github\\portfoliowebsite\\myportfolio\\myportfolio\\viewcomponents\\_skillcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\viewcomponents\\_skillcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\acer\\documents\\github\\portfoliowebsite\\myportfolio\\myportfolio\\views\\shared\\components\\_aboutcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\views\\shared\\components\\_aboutcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\acer\\documents\\github\\portfoliowebsite\\myportfolio\\myportfolio\\viewcomponents\\_aboutcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\viewcomponents\\_aboutcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\acer\\documents\\github\\portfoliowebsite\\myportfolio\\myportfolio\\views\\shared\\components\\_footercomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\views\\shared\\components\\_footercomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\acer\\documents\\github\\portfoliowebsite\\myportfolio\\myportfolio\\viewcomponents\\_footercomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\viewcomponents\\_footercomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\acer\\documents\\github\\portfoliowebsite\\myportfolio\\myportfolio\\views\\shared\\components\\_contactcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\views\\shared\\components\\_contactcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\acer\\documents\\github\\portfoliowebsite\\myportfolio\\myportfolio\\viewcomponents\\_contactcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\viewcomponents\\_contactcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\acer\\documents\\github\\portfoliowebsite\\myportfolio\\myportfolio\\views\\shared\\components\\_statisticscomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\views\\shared\\components\\_statisticscomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\acer\\documents\\github\\portfoliowebsite\\myportfolio\\myportfolio\\viewcomponents\\_statisticscomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\viewcomponents\\_statisticscomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\acer\\documents\\github\\portfoliowebsite\\myportfolio\\myportfolio\\views\\shared\\components\\_testimonialcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\views\\shared\\components\\_testimonialcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\acer\\documents\\github\\portfoliowebsite\\myportfolio\\myportfolio\\viewcomponents\\_testimonialcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\viewcomponents\\_testimonialcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\acer\\documents\\github\\portfoliowebsite\\myportfolio\\myportfolio\\views\\shared\\components\\_portfoliocomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\views\\shared\\components\\_portfoliocomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\acer\\documents\\github\\portfoliowebsite\\myportfolio\\myportfolio\\viewcomponents\\_portfoliocomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\viewcomponents\\_portfoliocomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\acer\\documents\\github\\portfoliowebsite\\myportfolio\\myportfolio\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\acer\\documents\\github\\portfoliowebsite\\myportfolio\\myportfolio\\dal\\entities\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\dal\\entities\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\acer\\documents\\github\\portfoliowebsite\\myportfolio\\myportfolio\\dal\\entities\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\dal\\entities\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\acer\\documents\\github\\portfoliowebsite\\myportfolio\\myportfolio\\dal\\entities\\socialmedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\dal\\entities\\socialmedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\acer\\documents\\github\\portfoliowebsite\\myportfolio\\myportfolio\\dal\\entities\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\dal\\entities\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\acer\\documents\\github\\portfoliowebsite\\myportfolio\\myportfolio\\dal\\entities\\testimonial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\dal\\entities\\testimonial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\acer\\documents\\github\\portfoliowebsite\\myportfolio\\myportfolio\\dal\\entities\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\dal\\entities\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\acer\\documents\\github\\portfoliowebsite\\myportfolio\\myportfolio\\dal\\entities\\feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760F3AD9-67E9-4281-B2AD-38CEE696AAF6}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\dal\\entities\\feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\Views\\Default\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolio\\Views\\Default\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\Views\\Default\\Index.cshtml",
+              "RelativeToolTip": "MyPortfolio\\Views\\Default\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T11:57:55.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\Views\\Shared\\Components\\_LayoutNavbarComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolio\\Views\\Shared\\Components\\_LayoutNavbarComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\Views\\Shared\\Components\\_LayoutNavbarComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "MyPortfolio\\Views\\Shared\\Components\\_LayoutNavbarComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-31T13:04:01.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\Views\\Shared\\Components\\_HeadComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolio\\Views\\Shared\\Components\\_HeadComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\Views\\Shared\\Components\\_HeadComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "MyPortfolio\\Views\\Shared\\Components\\_HeadComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T16:25:39.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\Views\\Shared\\Components\\_NavbarComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolio\\Views\\Shared\\Components\\_NavbarComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\Views\\Shared\\Components\\_NavbarComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "MyPortfolio\\Views\\Shared\\Components\\_NavbarComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T12:31:35.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\Views\\Shared\\Components\\_FeatureComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolio\\Views\\Shared\\Components\\_FeatureComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\Views\\Shared\\Components\\_FeatureComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "MyPortfolio\\Views\\Shared\\Components\\_FeatureComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T12:43:48.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExperienceList.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\Views\\Experience\\ExperienceList.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolio\\Views\\Experience\\ExperienceList.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\Views\\Experience\\ExperienceList.cshtml",
+              "RelativeToolTip": "MyPortfolio\\Views\\Experience\\ExperienceList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-31T12:44:51.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\Views\\Layout\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolio\\Views\\Layout\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\Views\\Layout\\Index.cshtml",
+              "RelativeToolTip": "MyPortfolio\\Views\\Layout\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-11T13:46:16.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateExperience.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\Views\\Experience\\CreateExperience.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolio\\Views\\Experience\\CreateExperience.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\Views\\Experience\\CreateExperience.cshtml",
+              "RelativeToolTip": "MyPortfolio\\Views\\Experience\\CreateExperience.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-02T13:48:32.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\wwwroot\\hola-master\\index.html",
+              "RelativeDocumentMoniker": "MyPortfolio\\wwwroot\\hola-master\\index.html",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\wwwroot\\hola-master\\index.html",
+              "RelativeToolTip": "MyPortfolio\\wwwroot\\hola-master\\index.html",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-12T12:01:05.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_HeadComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\ViewComponents\\_HeadComponentPartial.cs",
+              "RelativeDocumentMoniker": "MyPortfolio\\ViewComponents\\_HeadComponentPartial.cs",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\ViewComponents\\_HeadComponentPartial.cs",
+              "RelativeToolTip": "MyPortfolio\\ViewComponents\\_HeadComponentPartial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:21:46.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\Program.cs",
+              "RelativeDocumentMoniker": "MyPortfolio\\Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\Program.cs",
+              "RelativeToolTip": "MyPortfolio\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T11:57:26.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolio\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MyPortfolio\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-11T13:48:55.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\Views\\ToDoList\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolio\\Views\\ToDoList\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\Views\\ToDoList\\Index.cshtml",
+              "RelativeToolTip": "MyPortfolio\\Views\\ToDoList\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T13:34:11.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_NavbarComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\ViewComponents\\_NavbarComponentPartial.cs",
+              "RelativeDocumentMoniker": "MyPortfolio\\ViewComponents\\_NavbarComponentPartial.cs",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\ViewComponents\\_NavbarComponentPartial.cs",
+              "RelativeToolTip": "MyPortfolio\\ViewComponents\\_NavbarComponentPartial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T12:29:15.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_LayoutNavbarComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\ViewComponents\\LayoutViewComponents\\_LayoutNavbarComponentPartial.cs",
+              "RelativeDocumentMoniker": "MyPortfolio\\ViewComponents\\LayoutViewComponents\\_LayoutNavbarComponentPartial.cs",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\ViewComponents\\LayoutViewComponents\\_LayoutNavbarComponentPartial.cs",
+              "RelativeToolTip": "MyPortfolio\\ViewComponents\\LayoutViewComponents\\_LayoutNavbarComponentPartial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T13:02:26.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolio\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MyPortfolio\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-11T13:45:53.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Default.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\Controllers\\Default.cs",
+              "RelativeDocumentMoniker": "MyPortfolio\\Controllers\\Default.cs",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\Controllers\\Default.cs",
+              "RelativeToolTip": "MyPortfolio\\Controllers\\Default.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T14:22:31.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ToDoListController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\Controllers\\ToDoListController.cs",
+              "RelativeDocumentMoniker": "MyPortfolio\\Controllers\\ToDoListController.cs",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\Controllers\\ToDoListController.cs",
+              "RelativeToolTip": "MyPortfolio\\Controllers\\ToDoListController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwDAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T13:32:57.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UpdateToDoList.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\Views\\ToDoList\\UpdateToDoList.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolio\\Views\\ToDoList\\UpdateToDoList.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\Views\\ToDoList\\UpdateToDoList.cshtml",
+              "RelativeToolTip": "MyPortfolio\\Views\\ToDoList\\UpdateToDoList.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T13:44:49.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CreateToDoList.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\Views\\ToDoList\\CreateToDoList.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolio\\Views\\ToDoList\\CreateToDoList.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\Views\\ToDoList\\CreateToDoList.cshtml",
+              "RelativeToolTip": "MyPortfolio\\Views\\ToDoList\\CreateToDoList.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwBgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T13:38:18.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\Views\\Shared\\Components\\_LayoutSidebarComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolio\\Views\\Shared\\Components\\_LayoutSidebarComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\Views\\Shared\\Components\\_LayoutSidebarComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "MyPortfolio\\Views\\Shared\\Components\\_LayoutSidebarComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-31T13:59:12.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Inbox.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\Views\\Message\\Inbox.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolio\\Views\\Message\\Inbox.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\Views\\Message\\Inbox.cshtml",
+              "RelativeToolTip": "MyPortfolio\\Views\\Message\\Inbox.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAwCsAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-08T11:20:24.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ToDoList.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\DAL\\Entities\\ToDoList.cs",
+              "RelativeDocumentMoniker": "MyPortfolio\\DAL\\Entities\\ToDoList.cs",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\DAL\\Entities\\ToDoList.cs",
+              "RelativeToolTip": "MyPortfolio\\DAL\\Entities\\ToDoList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T13:26:53.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MyPortfolioContext.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\DAL\\Context\\MyPortfolioContext.cs",
+              "RelativeDocumentMoniker": "MyPortfolio\\DAL\\Context\\MyPortfolioContext.cs",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\DAL\\Context\\MyPortfolioContext.cs",
+              "RelativeToolTip": "MyPortfolio\\DAL\\Context\\MyPortfolioContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T13:44:41.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_LayoutSidebarComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\ViewComponents\\LayoutViewComponents\\_LayoutSidebarComponentPartial.cs",
+              "RelativeDocumentMoniker": "MyPortfolio\\ViewComponents\\LayoutViewComponents\\_LayoutSidebarComponentPartial.cs",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\ViewComponents\\LayoutViewComponents\\_LayoutSidebarComponentPartial.cs",
+              "RelativeToolTip": "MyPortfolio\\ViewComponents\\LayoutViewComponents\\_LayoutSidebarComponentPartial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T13:56:41.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MessageDetail.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\Views\\Message\\MessageDetail.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolio\\Views\\Message\\MessageDetail.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\Views\\Message\\MessageDetail.cshtml",
+              "RelativeToolTip": "MyPortfolio\\Views\\Message\\MessageDetail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-08T12:49:29.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MessageController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\Controllers\\MessageController.cs",
+              "RelativeDocumentMoniker": "MyPortfolio\\Controllers\\MessageController.cs",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\Controllers\\MessageController.cs",
+              "RelativeToolTip": "MyPortfolio\\Controllers\\MessageController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T11:19:49.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\Views\\Statistic\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolio\\Views\\Statistic\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\Views\\Statistic\\Index.cshtml",
+              "RelativeToolTip": "MyPortfolio\\Views\\Statistic\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T12:49:03.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "StatisticController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\Controllers\\StatisticController.cs",
+              "RelativeDocumentMoniker": "MyPortfolio\\Controllers\\StatisticController.cs",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\Controllers\\StatisticController.cs",
+              "RelativeToolTip": "MyPortfolio\\Controllers\\StatisticController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T12:47:29.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\Views\\Shared\\Components\\_ExperienceComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolio\\Views\\Shared\\Components\\_ExperienceComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\Views\\Shared\\Components\\_ExperienceComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "MyPortfolio\\Views\\Shared\\Components\\_ExperienceComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-24T15:13:22.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UpdateExperience.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\Views\\Experience\\UpdateExperience.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolio\\Views\\Experience\\UpdateExperience.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\Views\\Experience\\UpdateExperience.cshtml",
+              "RelativeToolTip": "MyPortfolio\\Views\\Experience\\UpdateExperience.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-03T13:34:58.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ExperienceController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\Controllers\\ExperienceController.cs",
+              "RelativeDocumentMoniker": "MyPortfolio\\Controllers\\ExperienceController.cs",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\Controllers\\ExperienceController.cs",
+              "RelativeToolTip": "MyPortfolio\\Controllers\\ExperienceController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwCYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T12:44:13.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolio\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MyPortfolio\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-02T13:24:08.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_ExperienceComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\ViewComponents\\_ExperienceComponentPartial.cs",
+              "RelativeDocumentMoniker": "MyPortfolio\\ViewComponents\\_ExperienceComponentPartial.cs",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\ViewComponents\\_ExperienceComponentPartial.cs",
+              "RelativeToolTip": "MyPortfolio\\ViewComponents\\_ExperienceComponentPartial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T14:35:13.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\Views\\Shared\\Components\\_LayoutScriptComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolio\\Views\\Shared\\Components\\_LayoutScriptComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\Views\\Shared\\Components\\_LayoutScriptComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "MyPortfolio\\Views\\Shared\\Components\\_LayoutScriptComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-31T14:19:12.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "_LayoutScriptComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\ViewComponents\\LayoutViewComponents\\_LayoutScriptComponentPartial.cs",
+              "RelativeDocumentMoniker": "MyPortfolio\\ViewComponents\\LayoutViewComponents\\_LayoutScriptComponentPartial.cs",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\ViewComponents\\LayoutViewComponents\\_LayoutScriptComponentPartial.cs",
+              "RelativeToolTip": "MyPortfolio\\ViewComponents\\LayoutViewComponents\\_LayoutScriptComponentPartial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T14:17:02.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "_FeatureComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\ViewComponents\\_FeatureComponentPartial.cs",
+              "RelativeDocumentMoniker": "MyPortfolio\\ViewComponents\\_FeatureComponentPartial.cs",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\ViewComponents\\_FeatureComponentPartial.cs",
+              "RelativeToolTip": "MyPortfolio\\ViewComponents\\_FeatureComponentPartial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T12:40:49.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\Views\\Shared\\Components\\_LayoutHeadComponentsPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolio\\Views\\Shared\\Components\\_LayoutHeadComponentsPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\Views\\Shared\\Components\\_LayoutHeadComponentsPartial\\Default.cshtml",
+              "RelativeToolTip": "MyPortfolio\\Views\\Shared\\Components\\_LayoutHeadComponentsPartial\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-31T12:58:47.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "_LayoutHeadComponentsPartial.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\ViewComponents\\LayoutViewComponents\\_LayoutHeadComponentsPartial.cs",
+              "RelativeDocumentMoniker": "MyPortfolio\\ViewComponents\\LayoutViewComponents\\_LayoutHeadComponentsPartial.cs",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\ViewComponents\\LayoutViewComponents\\_LayoutHeadComponentsPartial.cs",
+              "RelativeToolTip": "MyPortfolio\\ViewComponents\\LayoutViewComponents\\_LayoutHeadComponentsPartial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T12:54:38.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "typography.html",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\typography.html",
+              "RelativeDocumentMoniker": "MyPortfolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\typography.html",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\typography.html",
+              "RelativeToolTip": "MyPortfolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\typography.html",
+              "ViewState": "AgIAAJEBAAAAAAAAAAAmwJwBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-31T12:46:10.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "LayoutController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\Controllers\\LayoutController.cs",
+              "RelativeDocumentMoniker": "MyPortfolio\\Controllers\\LayoutController.cs",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\Controllers\\LayoutController.cs",
+              "RelativeToolTip": "MyPortfolio\\Controllers\\LayoutController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T12:42:52.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\Views\\Shared\\Components\\_SkillComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolio\\Views\\Shared\\Components\\_SkillComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\Views\\Shared\\Components\\_SkillComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "MyPortfolio\\Views\\Shared\\Components\\_SkillComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T13:06:32.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "_SkillComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\ViewComponents\\_SkillComponentPartial.cs",
+              "RelativeDocumentMoniker": "MyPortfolio\\ViewComponents\\_SkillComponentPartial.cs",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\ViewComponents\\_SkillComponentPartial.cs",
+              "RelativeToolTip": "MyPortfolio\\ViewComponents\\_SkillComponentPartial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T13:04:59.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\Views\\Shared\\Components\\_AboutComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolio\\Views\\Shared\\Components\\_AboutComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\Views\\Shared\\Components\\_AboutComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "MyPortfolio\\Views\\Shared\\Components\\_AboutComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T13:00:28.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "_AboutComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\ViewComponents\\_AboutComponentPartial.cs",
+              "RelativeDocumentMoniker": "MyPortfolio\\ViewComponents\\_AboutComponentPartial.cs",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\ViewComponents\\_AboutComponentPartial.cs",
+              "RelativeToolTip": "MyPortfolio\\ViewComponents\\_AboutComponentPartial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T12:58:56.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\Views\\Shared\\Components\\_FooterComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolio\\Views\\Shared\\Components\\_FooterComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\Views\\Shared\\Components\\_FooterComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "MyPortfolio\\Views\\Shared\\Components\\_FooterComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAGkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T15:00:31.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "_FooterComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\ViewComponents\\_FooterComponentPartial.cs",
+              "RelativeDocumentMoniker": "MyPortfolio\\ViewComponents\\_FooterComponentPartial.cs",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\ViewComponents\\_FooterComponentPartial.cs",
+              "RelativeToolTip": "MyPortfolio\\ViewComponents\\_FooterComponentPartial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T14:58:56.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\Views\\Shared\\Components\\_ContactComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolio\\Views\\Shared\\Components\\_ContactComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\Views\\Shared\\Components\\_ContactComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "MyPortfolio\\Views\\Shared\\Components\\_ContactComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T14:54:44.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "_ContactComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\ViewComponents\\_ContactComponentPartial.cs",
+              "RelativeDocumentMoniker": "MyPortfolio\\ViewComponents\\_ContactComponentPartial.cs",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\ViewComponents\\_ContactComponentPartial.cs",
+              "RelativeToolTip": "MyPortfolio\\ViewComponents\\_ContactComponentPartial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T14:53:07.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\Views\\Shared\\Components\\_StatisticsComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolio\\Views\\Shared\\Components\\_StatisticsComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\Views\\Shared\\Components\\_StatisticsComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "MyPortfolio\\Views\\Shared\\Components\\_StatisticsComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T14:48:46.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "_StatisticsComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\ViewComponents\\_StatisticsComponentPartial.cs",
+              "RelativeDocumentMoniker": "MyPortfolio\\ViewComponents\\_StatisticsComponentPartial.cs",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\ViewComponents\\_StatisticsComponentPartial.cs",
+              "RelativeToolTip": "MyPortfolio\\ViewComponents\\_StatisticsComponentPartial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T14:46:26.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\Views\\Shared\\Components\\_TestimonialComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolio\\Views\\Shared\\Components\\_TestimonialComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\Views\\Shared\\Components\\_TestimonialComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "MyPortfolio\\Views\\Shared\\Components\\_TestimonialComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T14:39:33.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "_TestimonialComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\ViewComponents\\_TestimonialComponentPartial.cs",
+              "RelativeDocumentMoniker": "MyPortfolio\\ViewComponents\\_TestimonialComponentPartial.cs",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\ViewComponents\\_TestimonialComponentPartial.cs",
+              "RelativeToolTip": "MyPortfolio\\ViewComponents\\_TestimonialComponentPartial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T14:37:55.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\Views\\Shared\\Components\\_PortfolioComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolio\\Views\\Shared\\Components\\_PortfolioComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\Views\\Shared\\Components\\_PortfolioComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "MyPortfolio\\Views\\Shared\\Components\\_PortfolioComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAAUBAAAAAAAAAAAAAO8AAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-24T15:24:09.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "_PortfolioComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\ViewComponents\\_PortfolioComponentPartial.cs",
+              "RelativeDocumentMoniker": "MyPortfolio\\ViewComponents\\_PortfolioComponentPartial.cs",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\ViewComponents\\_PortfolioComponentPartial.cs",
+              "RelativeToolTip": "MyPortfolio\\ViewComponents\\_PortfolioComponentPartial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T15:20:16.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\appsettings.json",
+              "RelativeDocumentMoniker": "MyPortfolio\\appsettings.json",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\appsettings.json",
+              "RelativeToolTip": "MyPortfolio\\appsettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-21T14:07:57.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\DAL\\Entities\\Message.cs",
+              "RelativeDocumentMoniker": "MyPortfolio\\DAL\\Entities\\Message.cs",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\DAL\\Entities\\Message.cs",
+              "RelativeToolTip": "MyPortfolio\\DAL\\Entities\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T16:19:31.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Portfolio.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\DAL\\Entities\\Portfolio.cs",
+              "RelativeDocumentMoniker": "MyPortfolio\\DAL\\Entities\\Portfolio.cs",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\DAL\\Entities\\Portfolio.cs",
+              "RelativeToolTip": "MyPortfolio\\DAL\\Entities\\Portfolio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T15:24:00.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "SocialMedia.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\DAL\\Entities\\SocialMedia.cs",
+              "RelativeDocumentMoniker": "MyPortfolio\\DAL\\Entities\\SocialMedia.cs",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\DAL\\Entities\\SocialMedia.cs",
+              "RelativeToolTip": "MyPortfolio\\DAL\\Entities\\SocialMedia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T16:22:17.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\DAL\\Entities\\Contact.cs",
+              "RelativeDocumentMoniker": "MyPortfolio\\DAL\\Entities\\Contact.cs",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\DAL\\Entities\\Contact.cs",
+              "RelativeToolTip": "MyPortfolio\\DAL\\Entities\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T16:16:39.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Testimonial.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\DAL\\Entities\\Testimonial.cs",
+              "RelativeDocumentMoniker": "MyPortfolio\\DAL\\Entities\\Testimonial.cs",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\DAL\\Entities\\Testimonial.cs",
+              "RelativeToolTip": "MyPortfolio\\DAL\\Entities\\Testimonial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T15:43:41.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "About.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\DAL\\Entities\\About.cs",
+              "RelativeDocumentMoniker": "MyPortfolio\\DAL\\Entities\\About.cs",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\DAL\\Entities\\About.cs",
+              "RelativeToolTip": "MyPortfolio\\DAL\\Entities\\About.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T15:16:16.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Feature.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\DAL\\Entities\\Feature.cs",
+              "RelativeDocumentMoniker": "MyPortfolio\\DAL\\Entities\\Feature.cs",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\PortfolioWebSite\\MyPortfolio\\MyPortfolio\\DAL\\Entities\\Feature.cs",
+              "RelativeToolTip": "MyPortfolio\\DAL\\Entities\\Feature.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T15:13:02.626Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
