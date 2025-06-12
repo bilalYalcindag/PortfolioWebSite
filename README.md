@@ -35,15 +35,25 @@
 ## 📸 Ekran Görüntüleri
 
 ![ScreenShot1](MyPortfolio/MyPortfolio/wwwroot/EkranGoruntuleri/ScreenShot1.png)  
+
 ![ScreenShot2](MyPortfolio/MyPortfolio/wwwroot/EkranGoruntuleri/ScreenShot2.png)  
+
 ![ScreenShot3](MyPortfolio/MyPortfolio/wwwroot/EkranGoruntuleri/ScreenShot3.png)  
+
 ![ScreenShot4](MyPortfolio/MyPortfolio/wwwroot/EkranGoruntuleri/ScreenShot4.png)  
+
 ![ScreenShot5](MyPortfolio/MyPortfolio/wwwroot/EkranGoruntuleri/ScreenShot5.png)  
+
 ![ScreenShot6](MyPortfolio/MyPortfolio/wwwroot/EkranGoruntuleri/ScreenShot6.png)  
+
 ![ScreenShot7](MyPortfolio/MyPortfolio/wwwroot/EkranGoruntuleri/ScreenShot7.png)  
+
 ![ScreenShot8](MyPortfolio/MyPortfolio/wwwroot/EkranGoruntuleri/ScreenShot8.png)  
+
 ![ScreenShot9](MyPortfolio/MyPortfolio/wwwroot/EkranGoruntuleri/ScreenShot9.png)  
+
 ![ScreenShot10](MyPortfolio/MyPortfolio/wwwroot/EkranGoruntuleri/ScreenShot10.png)  
+
 ![ScreenShot11](MyPortfolio/MyPortfolio/wwwroot/EkranGoruntuleri/ScreenShot11.png)
 
 
