@@ -33,10 +33,3 @@
 - Mobil uyumlu modern tasarım (**responsive**)  
 - Güvenli giriş sistemi ile korunan yönetim ekranı
 
-## 📸 Ekran Görüntüleri
-
-(Ekran görüntüleri eklemek için aşağıdaki örnek formatı kullanabilirsiniz:)
-
-```markdown
-![Ana Sayfa](Images/anasayfa.png)
-![Admin Paneli](Images/admin-panel.png)
