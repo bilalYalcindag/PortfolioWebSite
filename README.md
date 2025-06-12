@@ -1,47 +1,42 @@
-MyPortfolio - Kişisel Portfolyo Web Sitesi
-Bu proje, Murat Yücedağ'ın Udemy platformunda ücretsiz olarak yayınladığı 2 parçalık MyPortfolio eğitim serisini temel alarak geliştirilmiştir. Proje kapsamında ASP.NET Core MVC ile kişisel portfolyo web sitesi oluşturulmuştur.
+# MyPortfolio - Kişisel Portfolyo Web Sitesi
 
-Proje Hakkında
-MyPortfolio, kişisel ilgi alanlarım, yeteneklerim, deneyimlerim ve referanslarımı sergileyebildiğim bir web sitesidir. Site aynı zamanda yönetilebilir bir admin paneli içermektedir.
 
-Admin paneline yalnızca kimlik doğrulaması (login) işlemi sonrası erişilebilmektedir. Panel üzerinden aşağıdaki işlemler yapılabilmektedir:
+## 📌 Proje Hakkında
 
-Site ile ilgili istatistikleri görüntüleme
+**MyPortfolio**, kişisel ilgi alanlarımı, yeteneklerimi, deneyimlerimi ve referanslarımı sergileyebildiğim bir web sitesidir. Site aynı zamanda yönetilebilir bir **admin paneli** içermektedir.
 
-Admin bilgilerini güncelleme
+🔐 Admin paneline yalnızca kimlik doğrulama (login) işlemi sonrası erişilebilmektedir. Panel üzerinden aşağıdaki işlemler yapılabilir:
 
-Ana sayfadan gelen mesajları görüntüleme
+- 📊 Siteye ait istatistiklerin görüntülenmesi  
+- 👤 Admin bilgilerini güncelleme  
+- 💬 Ana sayfa üzerinden gelen mesajların görüntülenmesi  
+- 📝 Hatırlatıcılar (To Do List) ekleme ve düzenleme  
+- ⚙️ Deneyim, yetenek, sosyal medya ve portfolyo gibi alanlarda **CRUD** işlemleri  
+- 🖼️ Görsel yükleme ve güncelleme işlemleri
 
-Hatırlatıcılar (To Do List) ekleme ve düzenleme
+## 🛠️ Kullanılan Teknolojiler
 
-Deneyim, yetenek, sosyal medya, portfolyo gibi alanlarda CRUD işlemleri gerçekleştirme
+- **ASP.NET Core MVC 6.0**  
+- **Entity Framework Core (Code First Yaklaşımı)**  
+- **MS SQL Server**  
+- **Identity (Authentication & Authorization)**  
+- **Dependency Injection**  
+- **LINQ**  
+- **HTML / CSS / JavaScript**  
+- **Bootstrap**
 
-Görsel yükleme ve güncelleme işlemleri
+## 🚀 Özellikler
 
-Kullanılan Teknolojiler
-ASP.NET Core MVC 6.0
+- Admin paneli üzerinden içerik yönetimi  
+- CRUD işlemleri ile dinamik veri kontrolü  
+- Dosya ve görsel yükleme özellikleri  
+- Mobil uyumlu modern tasarım (**responsive**)  
+- Güvenli giriş sistemi ile korunan yönetim ekranı
 
-Entity Framework Core - Code First Yaklaşımı
+## 📸 Ekran Görüntüleri
 
-MS SQL Server
+(Ekran görüntüleri eklemek için aşağıdaki örnek formatı kullanabilirsiniz:)
 
-Identity (Authentication & Authorization)
-
-Dependency Injection
-
-LINQ
-
-HTML / CSS / JavaScript
-
-Bootstrap
-
-Özellikler
-Admin paneli üzerinden tüm içerikleri yönetebilme
-
-CRUD işlemleri ile dinamik veri yönetimi
-
-Dosya ve görsel yükleme özellikleri
-
-Mobil uyumlu ve modern tasarım (responsive)
-
-Güvenli giriş sistemi ile korunan yönetim ekranı
+```markdown
+![Ana Sayfa](Images/anasayfa.png)
+![Admin Paneli](Images/admin-panel.png)
