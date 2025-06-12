@@ -34,16 +34,16 @@
 
 ## 📸 Ekran Görüntüleri
 
-![ScreenShot1](wwwroot/EkranGoruntuleri/ScreenShot1.png)  
-![ScreenShot2](wwwroot/EkranGoruntuleri/ScreenShot2.png)  
-![ScreenShot3](wwwroot/EkranGoruntuleri/ScreenShot3.png)  
-![ScreenShot4](wwwroot/EkranGoruntuleri/ScreenShot4.png)  
-![ScreenShot5](wwwroot/EkranGoruntuleri/ScreenShot5.png)  
-![ScreenShot6](wwwroot/EkranGoruntuleri/ScreenShot6.png)  
-![ScreenShot7](wwwroot/EkranGoruntuleri/ScreenShot7.png)  
-![ScreenShot8](wwwroot/EkranGoruntuleri/ScreenShot8.png)  
-![ScreenShot9](wwwroot/EkranGoruntuleri/ScreenShot9.png)  
-![ScreenShot10](wwwroot/EkranGoruntuleri/ScreenShot10.png)  
-![ScreenShot11](wwwroot/EkranGoruntuleri/ScreenShot11.png)
+![ScreenShot1](MyPortfolio/MyPortfolio/wwwroot/EkranGoruntuleri/ScreenShot1.png)  
+![ScreenShot2](MyPortfolio/MyPortfolio/wwwroot/EkranGoruntuleri/ScreenShot2.png)  
+![ScreenShot3](MyPortfolio/MyPortfolio/wwwroot/EkranGoruntuleri/ScreenShot3.png)  
+![ScreenShot4](MyPortfolio/MyPortfolio/wwwroot/EkranGoruntuleri/ScreenShot4.png)  
+![ScreenShot5](MyPortfolio/MyPortfolio/wwwroot/EkranGoruntuleri/ScreenShot5.png)  
+![ScreenShot6](MyPortfolio/MyPortfolio/wwwroot/EkranGoruntuleri/ScreenShot6.png)  
+![ScreenShot7](MyPortfolio/MyPortfolio/wwwroot/EkranGoruntuleri/ScreenShot7.png)  
+![ScreenShot8](MyPortfolio/MyPortfolio/wwwroot/EkranGoruntuleri/ScreenShot8.png)  
+![ScreenShot9](MyPortfolio/MyPortfolio/wwwroot/EkranGoruntuleri/ScreenShot9.png)  
+![ScreenShot10](MyPortfolio/MyPortfolio/wwwroot/EkranGoruntuleri/ScreenShot10.png)  
+![ScreenShot11](MyPortfolio/MyPortfolio/wwwroot/EkranGoruntuleri/ScreenShot11.png)
 
 
