@@ -46,7 +46,7 @@
 
 ![ScreenShot6](MyPortfolio/MyPortfolio/wwwroot/EkranGoruntuleri/ScreenShot6.png)  
 
-![ScreenShot7](MyPortfolio/MyPortfolio/wwwroot/EkranGoruntuleri/ScreenShot7.png)  
+
 
 ![ScreenShot8](MyPortfolio/MyPortfolio/wwwroot/EkranGoruntuleri/ScreenShot8.png)  
 
