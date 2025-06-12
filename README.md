@@ -31,5 +31,20 @@
 - CRUD işlemleri ile dinamik veri kontrolü  
 - Dosya ve görsel yükleme özellikleri  
 - Mobil uyumlu modern tasarım (**responsive**)  
-- Güvenli giriş sistemi ile korunan yönetim ekranı
+
+
+
+```markdown
+(wwwroot\EkranGoruntuleri\ScreenShot1.png)
+(wwwroot\EkranGoruntuleri\ScreenShot2.png)
+](wwwroot\EkranGoruntuleri\ScreenShot3.png)
+(wwwroot\EkranGoruntuleri\ScreenShot4.png)
+(wwwroot\EkranGoruntuleri\ScreenShot5.png)
+(wwwroot\EkranGoruntuleri\ScreenShot6.png)
+(wwwroot\EkranGoruntuleri\ScreenShot7.png)
+(wwwroot\EkranGoruntuleri\ScreenShot8.png)
+(wwwroot\EkranGoruntuleri\ScreenShot9.png)
+(wwwroot\EkranGoruntuleri\ScreenShot10.png)
+(wwwroot\EkranGoruntuleri\ScreenShot11.png)
+
 
