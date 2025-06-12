@@ -32,19 +32,18 @@
 - Dosya ve görsel yükleme özellikleri  
 - Mobil uyumlu modern tasarım (**responsive**)  
 
+## 📸 Ekran Görüntüleri
 
-
-```markdown
-(wwwroot\EkranGoruntuleri\ScreenShot1.png)
-(wwwroot\EkranGoruntuleri\ScreenShot2.png)
-](wwwroot\EkranGoruntuleri\ScreenShot3.png)
-(wwwroot\EkranGoruntuleri\ScreenShot4.png)
-(wwwroot\EkranGoruntuleri\ScreenShot5.png)
-(wwwroot\EkranGoruntuleri\ScreenShot6.png)
-(wwwroot\EkranGoruntuleri\ScreenShot7.png)
-(wwwroot\EkranGoruntuleri\ScreenShot8.png)
-(wwwroot\EkranGoruntuleri\ScreenShot9.png)
-(wwwroot\EkranGoruntuleri\ScreenShot10.png)
-(wwwroot\EkranGoruntuleri\ScreenShot11.png)
+![ScreenShot1](wwwroot/EkranGoruntuleri/ScreenShot1.png)  
+![ScreenShot2](wwwroot/EkranGoruntuleri/ScreenShot2.png)  
+![ScreenShot3](wwwroot/EkranGoruntuleri/ScreenShot3.png)  
+![ScreenShot4](wwwroot/EkranGoruntuleri/ScreenShot4.png)  
+![ScreenShot5](wwwroot/EkranGoruntuleri/ScreenShot5.png)  
+![ScreenShot6](wwwroot/EkranGoruntuleri/ScreenShot6.png)  
+![ScreenShot7](wwwroot/EkranGoruntuleri/ScreenShot7.png)  
+![ScreenShot8](wwwroot/EkranGoruntuleri/ScreenShot8.png)  
+![ScreenShot9](wwwroot/EkranGoruntuleri/ScreenShot9.png)  
+![ScreenShot10](wwwroot/EkranGoruntuleri/ScreenShot10.png)  
+![ScreenShot11](wwwroot/EkranGoruntuleri/ScreenShot11.png)
 
 
